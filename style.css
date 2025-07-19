@@ -1,0 +1,113 @@
+* {
+  margin : 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(images/backgoyrjd.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  gap: 40px;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50%;
+  background-color: rgba(217, 56, 253, 0);
+  border-radius: 30px;
+  color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 10px 0 rgb(255, 255, 255);
+  margin-top: 50px;
+}
+
+.cont {
+  background: rgba(255, 255, 255, 0.158);
+  backdrop-filter: blur(8px);
+  border-radius: 20px;
+  height: 400px;
+  border: 1px solid rgba(255, 255, 255, 0.596);
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+#name {
+  height: 40px;
+  outline: none;
+  border: none;
+  width: 200px;
+  border-radius: 20px;
+  padding-left: 20px;
+}
+
+#password {
+  height: 40px;
+  outline: none;
+  border: none;
+  width: 200px;
+  border-radius: 20px;
+  padding-left: 20px;
+}
+
+.sub {
+  height: 40px;
+  border: none;
+  width: 150px;
+  border-radius: 20px;
+  background-color: #00ffff;
+  font-size: 18px;
+  color: balck;
+  transition: all 0.12s ease;
+}
+
+.sub:hover {
+  box-shadow: 0 0 10px 0 rgb(0, 38, 255);
+  cursor: pointer;
+  color: white;
+  background-color: #0084ff;
+}
+
+.hidden {
+  display: none;
+}
+
+#paragraph {
+  background: linear-gradient(to right, #ff67ff, #61ffff);
+  height: 40px;
+  width: 250px;
+  color: rgb(0, 0, 0);
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 2px 20px 0 rgba(22, 22, 22, 0.561);
+}
+
+.back-btn {
+  height: 40px;
+  border: none;
+  width: 150px;
+  border-radius: 20px;
+  background-color: #00ffff;
+  font-size: 18px;
+  display: none;
+  color: balck;
+  transition: all 0.12s ease;
+}
+
+.back-btn:hover {
+  box-shadow: 0 0 10px 0 rgb(0, 38, 255);
+  cursor: pointer;
+  color: white;
+  background-color: #0084ff;
+}
