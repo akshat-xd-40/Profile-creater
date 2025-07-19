@@ -17,7 +17,9 @@ Users can enter their **username** and **password**, and the app generates a uni
 
 ## 🖼️ **Preview**
 
-![Final Look 1](https://raw.githubusercontent.com/akshat-xd-40/Profile-creater/main/final (1).png)
+![Final Look 1](https://raw.githubusercontent.com/akshat-xd-40/Profile-creater/main/final(1).png)
+![Final Look 2](https://raw.githubusercontent.com/akshat-xd-40/Profile-creater/main/final(2).png)
+![Final Look 3](https://raw.githubusercontent.com/akshat-xd-40/Profile-creater/main/final(3).png)
 
 *(Make sure to replace with your actual screenshot image path in the repo)*
 
