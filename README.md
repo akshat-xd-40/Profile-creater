@@ -18,20 +18,28 @@ Users can enter their **username** and **password**, and the app generates a uni
 ## 🖼️ **Preview**
 
 [Final Look 1](https://raw.githubusercontent.com/akshat-xd-40/Profile-creater/main/final_look.png)
+
 [Final Look 2](https://raw.githubusercontent.com/akshat-xd-40/Profile-creater/main/final_look(1).png)
+
 [Final Look 3](https://raw.githubusercontent.com/akshat-xd-40/Profile-creater/main/final_look(2).png)
+
 [Final Look 4](https://raw.githubusercontent.com/akshat-xd-40/Profile-creater/main/final_look(3).png)
 
-*(Make sure to replace with your actual screenshot image path in the repo)*
 
 ---
 
 ## 📂 **Project Structure**
+
 Profile-creater/
+
 │
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling (glassmorphism, gradients, responsive)
+
 ├── script.js # Username generation & validation logic
+
 └── Backgrounds
 
 
@@ -40,12 +48,15 @@ Profile-creater/
 ## ⚙️ **Installation / Usage**
 
 1. **Clone the repository**
+   
    ```bash git clone https://github.com/akshat-xd-40/Profile-creater.git```
    
 2. Open the project folder
+   
 ---> cd Profile-creater
 
 3. Run the project
+   
 Simply open index.html in your browser.
 
 ---
@@ -53,15 +64,21 @@ Simply open index.html in your browser.
 # 💻 Tech Stack
 
 • HTML5 – Structure
+
 • CSS3 – Styling with glassmorphism & gradients
+
 • JavaScript (Vanilla) – Username generation & form validation
 
-# 🤝 Contributhttps://github.com/akshat-xd-40ing
+
+# 🤝 Contribution
+
 Feel free to fork this repo and submit pull requests for any improvements or bug fixes.
 
 # 🌟 Show your support
+
 If you like this project, give it a ⭐ on GitHub!
 
 # Author
+
 -- [Akshat](https://github.com/akshat-xd-40)
 
