@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(images/backgoyrjd.gif);
+  background-image: url(backgoyrjd.gif);
   background-repeat: no-repeat;
   background-size: cover;
   gap: 40px;
