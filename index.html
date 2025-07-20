@@ -14,25 +14,27 @@
   <div class="cont">
     <h2 id="heading-two">Make your profile</h2>
     
-      <div class="username">
-        <input type="text" placeholder="Username" id="name" maxlength="20" required>
-      </div>
+    <div class="profile-pic-container">
+      <input type="file" id="profile-pic-input" accept="image/*" style="display:none;">
+      <label for="profile-pic-input" class="profile-pic-label">
+        <img id="profile-pic" src="" alt="Profile Picture" class="profile-pic"/>
+        <p class="profile-pic-text">Upload Image</p>
+      </label>
+      <button id="change-pic-btn" class="change-pic-btn" style="display:none;">Change Pic</button>
+    </div>
+
+      <input type="text" placeholder="Username" id="name" maxlength="20" class="username" required>
+      
 
       <div id="paragraph" class="hidden">
         <p id="para">username</p>
       </div>
 
-      <div class="password">
-        <input type="password" placeholder="Enter your password" id="password" required>
-      </div>
+      <input type="password" placeholder="Enter your password" id="password" class="password" required>
 
-      <div class="submit">
-          <button class="sub">Submit</button>
-      </div>
+      <button class="sub">Submit</button>
 
-      <div class="back">
-          <button class="back-btn">Next</button>
-      </div>
+      <button class="back-btn">Next</button>
   </div>
   <script src="script.js"></script>
 </body>
