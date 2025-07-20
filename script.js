@@ -1,6 +1,3 @@
-npm i @vercel/analytics
-import { inject } from "@vercel/analytics"/
-
   const btn = document.querySelector('.sub');
   const h2 = document.querySelector('#heading-two');
   const passBtn = document.querySelector('.password');
